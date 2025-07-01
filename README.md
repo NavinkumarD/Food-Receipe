@@ -1,4 +1,4 @@
-﻿# Food-Receipe
+
 # 🎓 Student Grade Calculator (Java Console Project)
 
 A beginner-friendly Java console application that calculates a student's total marks, average, and grade based on input for three subjects.
